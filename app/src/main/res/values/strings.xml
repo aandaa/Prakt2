@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prakt2 Anda</string>
+    <string name="text_info">First Activity</string>
+    <string name="text_info_2nd">Second Activity</string>
+    <string name="button_text_2nd">Go to 2nd</string>
+    <string name="button_text_dialog">Dialog</string>
+    <string name="toast_text_ok">You clicked OK</string>
+    <string name="toast_text_close">You closed dialog</string>
+    <string name="dialog_title">2.Group’s Dialog</string>
+    <string name="ok">Ok</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <array name="members">
+        <item>Anda Āriņa</item>
+        <item>Agate Ziediņa</item>
+        <item>Annija Cunska</item>
+    </array>
+</resources>

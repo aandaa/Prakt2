@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Practical work 2</string>
+    <string name="app_name">Dialog</string>
     <string name="descr">1-st Activity</string>
     <string name="descr2">2-nd Activity</string>
     <string name="btn1_text">Go to 2nd</string>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practical work 2</string>
+    <string name="descr">1-st Activity</string>
+    <string name="descr2">2-nd Activity</string>
+    <string name="btn1_text">Go to 2nd</string>
+    <string name="btn2_text">Dialog</string>
+    <string name="btn_back">Back</string>
+    <string name="dialog_title">2nd Group\u0027s Dialog</string>
+    <string name="pos_btn">Ok</string>
+    <string name="neg_btn">Close</string>
+
+    <string-array name="checklist">
+        <item>Annija Cunska</item>
+        <item>Anda Āriņa</item>
+        <item>Agate Ziediņa</item>
+    </string-array>
+</resources>

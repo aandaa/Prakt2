@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Prakt2 Anda</string>
+    <string name="app_name">Dialog</string>
     <string name="text_info">First Activity</string>
     <string name="text_info_2nd">Second Activity</string>
     <string name="button_text_2nd">Go to 2nd</string>
